@@ -1,3 +1,5 @@
+# Commented with RDoc standards.
+
 class ArgumentHandler
   ##
   # Processes the passed arguments and simplify the checking for args and getting data from them.
